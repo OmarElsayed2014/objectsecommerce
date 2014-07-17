@@ -1,0 +1,25 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Title: Objects Development Team
+
+
+Site: https://objects.ws/en/contact
+
+
+Twitter : https://twitter.com/0bjects
+
+
+Location: Alexandria, Egypt.
+
+# THANKS
+
+    World !
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Symfony 2.0, PHP
